@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": "C:/diskg/server/gen4bot/commendbot.ui/V0.2",
+            "name": "CommendBot APP"
+        }
+    ],
+    "settings": {
+        "discord.detailsEditing": "Working on {file_name}:{current_line}:{current_column}",
+        "discord.lowerDetailsEditing": "Workspace: {workspace_and_folder}",
+        "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/__pycache__": true,
+            "**/desktop.ini": true
+        },
+        "python.linting.enabled": true,
+        "python.formatting.provider": "autopep8",
+        "python.formatting.autopep8Args": ["--indent-size=4", "--indent-tabs"]
+    }
+}
